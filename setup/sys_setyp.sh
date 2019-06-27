@@ -60,6 +60,7 @@ npm install -g tldr how-2 doctoc
 go get -u github.com/nishanths/license
 brew install lnav knqyf263/pet/pet
 go get -u github.com/gokcehan/lf
+brew cask install clipy
 
 # Install visual utils
 brew cask install xquartz
