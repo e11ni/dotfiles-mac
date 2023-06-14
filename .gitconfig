@@ -1,6 +1,3 @@
 [user]
 	name = Petr Maliarov
 	email = petr.maliarov@gmail.com
-
-[includeIf "gitdir:~/work/"]
-    path = ~/work/.gitconfig
