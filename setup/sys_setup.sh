@@ -37,6 +37,7 @@ brew tap caskroom/fonts && brew cask install font-source-code-pro
 
 # Install vim plugin loader
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+# Do not forget run this command inside vim: PlugUpdate
 
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
