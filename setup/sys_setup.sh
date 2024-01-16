@@ -12,7 +12,7 @@ brew install git
 # Generate ssh keys (For work only)
 mkdir .ssh
 cd .ssh/
-ssh-keygen -t rsa -b 2048 -C petrmali@yandex-team.ru
+ssh-keygen -t rsa -b 2048 -C petr.maliarov@gmail.com
 cat id_rsa.pub
 
 # Install npm
