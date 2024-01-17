@@ -50,7 +50,7 @@ brew install --cask maccy
 npm install -g tldr how-2
 
 # Install visual utils
-brew cask install xquartz
+brew install --cask xquartz
 brew install wireshark feh
 
 brew install htop ctop
